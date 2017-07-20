@@ -27,7 +27,7 @@ if (nb1 > 50) {
 /* Exercice
 On utilise le IF pour verifier l'âge de l'internaute.
 => s'il est majeur je lui souhaite la bienvenue
-=>s'il est mineur je lui signale et le renvoie vers un autre souhaite
+=>s'il est mineur je lui signale et le renvoie vers un autre souhait
 */
 
  // 1 -- déclare la majorité légale

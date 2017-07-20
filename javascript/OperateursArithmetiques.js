@@ -1,7 +1,7 @@
 //alert("Hello")
 
 // -- 1. Addition
-// -- INFO -- Je peuex déclarer plusieurs variables à la suite var nb1, nb2, résultat;
+// -- INFO -- Je peux déclarer plusieurs variables à la suite var nb1, nb2, résultat;
 
 nb1= 10;
 nb2= 5;
